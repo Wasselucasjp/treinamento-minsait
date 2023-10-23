@@ -23,6 +23,4 @@ public class OpenApiConfig {
 						.contact(new Contact().name("Nome").email("email").url("url"))
 						.version("Versão 0.0.1-SNAPSHOT"));
 	}
-	
-	
 }
